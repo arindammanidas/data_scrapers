@@ -1,3 +1,3 @@
-# Scrappers
+# Scrapers
 
-A few scrappers I wrote.
+A few scrapers I wrote.
